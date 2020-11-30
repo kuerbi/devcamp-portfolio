@@ -50,6 +50,7 @@ body {
 
 .cover-container {
   max-width: 55em;
+  min-width: 720px;
 }
 
 
@@ -113,4 +114,12 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+.card-body {
+  color: black;
+}
+
+.auth-links a {
+  color: black;
 }
