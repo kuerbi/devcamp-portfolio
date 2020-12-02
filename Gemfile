@@ -51,3 +51,7 @@ gem 'friendly_id', '~> 5.4.0'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
 gem 'petergate', '~> 2.0', '>= 2.0.1'
+
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+
+gem 'kaminari', '~> 1.2', '>= 1.2.1'

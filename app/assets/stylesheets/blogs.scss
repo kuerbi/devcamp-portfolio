@@ -1,5 +1,6 @@
 /*
   *= require bootstrap
+  *= require font-awesome
 */
 
 /*
@@ -169,3 +170,9 @@
     margin-bottom: 0;
   }
   
+
+
+
+.social-links li {
+  font-size: 2.5em;
+}
